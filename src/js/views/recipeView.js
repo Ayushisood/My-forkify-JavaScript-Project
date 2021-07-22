@@ -1,5 +1,4 @@
 import icons from 'url:../../img/icons.svg';
-import arrowIcon from 'url:../../img';
 import { Fraction } from 'fractional';
 import View from './view.js';
 
@@ -130,7 +129,6 @@ class RecipeView extends View {
       target="_blank"
     >
       <span>Directions</span>
-      <img src="${arrowIcon}/arrow-right.png" class="nav--icon"/>
     </a>
   </div>`;
   }
