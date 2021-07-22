@@ -1,6 +1,6 @@
 # My-forkify Project
 
-My-forkify is the Recipe Search Application with an Recipe upload option.
+My-forkify is the Recipe Search Application with Recipe upload option.
 
 ## Link
 
@@ -8,7 +8,7 @@ My-forkify : [Netlify](https://myforkify-js.netlify.app/)
 
 ## Aim
 
-Aim for the project was to search/add/bookmark recipes fetched from an API using Asynchronous JavaScript
+Aim of the project was to search/add/bookmark recipes fetched from an API using Asynchronous JavaScript
 
 ## Built with
 
